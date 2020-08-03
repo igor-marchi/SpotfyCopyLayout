@@ -1,7 +1,9 @@
-### : Spotify Layout Clone
+<h1 align="center">
+  Spotify Clone
+</h1>
 
 <p align="center">
-  <img alt="logo" src="imagens/spotify.svg">
+  <img alt="logo" src="imagens/favicon.png">
 </p>
 
 <p align="center">
@@ -13,7 +15,11 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="imagens/gitHub/spotify.gif">
+  <img alt="App Demo" src="imagens/GitHub/spotify.gif">
+</p>
+
+<p align="center">
+  <img alt="App Demo" src="imagens/GitHub/spotifyresponse.gif">
 </p>
 
 ## :rocket: Technologies
